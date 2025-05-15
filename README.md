@@ -69,7 +69,7 @@ I use **3NF (Third Normal Form)** for the database structure. This ensures there
 
 ---
 
-### Unnormalized Form (UNF) (The table are made by chatgbt would be to muhc work creating 4 of them)
+### Unnormalized Form (UNF) (The table are made by chatgbt would be to much work creating 4 of them)
 
 | Order ID | Customer Name | Product Names                | Product Quantities | Order Date   |
 |----------|---------------|------------------------------|--------------------|--------------|
